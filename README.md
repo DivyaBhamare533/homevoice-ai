@@ -208,7 +208,7 @@ Chatbot
 B.Tech Computer Engineering
 
 - 🌐 Portfolio: https://divya-portfolio-blue.vercel.app/
-- 💼 LinkedIn: *(Add your LinkedIn URL)*
+- 💼 LinkedIn: https://www.linkedin.com/in/divya-bhamare-281302293
 - 🐙 GitHub: https://github.com/DivyaBhamare533
 
 ---
